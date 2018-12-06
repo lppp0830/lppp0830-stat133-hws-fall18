@@ -5,7 +5,7 @@
 #   }
 #   TRUE
 # }
-
+f
 check_sides <- function(sides) {
   if (length(sides) != 6) {
     stop("\n'sides' must be a vector of length 6")
