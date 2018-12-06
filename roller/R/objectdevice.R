@@ -27,6 +27,8 @@ check_prob <- function(prob) {
   TRUE
 }
 
+s
+
 #' @title Die object
 #' @description constructor function of objects of class "die"
 #' @param sides vector of die sides
